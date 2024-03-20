@@ -1,0 +1,20 @@
+nav {
+  background-color: #f30e38;
+  
+}
+
+
+.navbar {
+  display: flex;
+  gap: 550px;
+}
+
+
+ul {
+  color:white;
+  display: flex;
+  gap:40px;
+  list-style: none;
+  
+
+}

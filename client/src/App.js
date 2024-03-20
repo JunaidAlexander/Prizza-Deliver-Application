@@ -1,9 +1,9 @@
-import React from 'react'
+import React from "react";
+import "./App.css";
+import Header from "./Components/Header";
 
 export default function App() {
-  return (
-    <div>
-      
-    </div>
-  )
+	return <div>
+		<Header />
+		</div>;
 }
